@@ -1,0 +1,1 @@
+The aim of this project is to create a clone page of the Google homepage using HTML and CSS.
